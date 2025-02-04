@@ -96,7 +96,7 @@ This section of the lab goes through the creation and configuration of our virtu
 </p>
 <br />
 
-<p>On the 'Select drivers to install step', hit `OK`. This will load the drivers from the Virtio-Win ISO. Select the driver that corresponds to the version of Windows you're installing. In this case we will select 2k22. Hit `Next`.</p>
+<p>On the 'Select drivers to install' screen, hit `OK`. This will load the drivers from the Virtio-Win ISO. Select the driver that corresponds to the version of Windows you're installing. In this case we will select 2k22. Hit `Next`.</p>
 <p align="center">
 <img src="https://i.imgur.com/5BC7dZT.png" height="80%" width="80%" alt="UI to add Role"/>
 </p>
