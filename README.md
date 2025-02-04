@@ -41,7 +41,7 @@ This section of the lab goes through the creation and configuration of our virtu
 <img src="https://i.imgur.com/bgUVeTi.png" height="80%" width="80%" alt="enter role name"/>
 </p>
 <br />
-<p>We begin customization by editing going into 'Overview' and editing code in the 'XML' tab. These changes will make it so the VM uses less resources.</p>
+<p>We begin customization by going into 'Overview' and editing code in the 'XML' tab. These changes will make it so the VM uses less resources.</p>
 <p align="center">
 <img src="https://i.imgur.com/wLgzbcH.png" height="80%" width="80%" alt="enter role name"/>
 </p>
